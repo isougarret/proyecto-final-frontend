@@ -1,0 +1,33 @@
+#pageposttitle span{
+	font-size: 30px;
+	
+}
+
+#pageposttitle{
+	text-align: right;
+	padding-bottom: 20px;
+	border-bottom: solid 1px rgba(208,244,214,0.8);
+
+}
+
+#pagepostdate{
+	padding-bottom: 45px;
+	font-weight: bold;
+}
+
+#pagepostdate span{
+	font-size: 15px;
+	
+}
+
+#pagepostcontent span p{
+
+	font-size: 15px;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 20px;
+	border-bottom: solid 1px rgba(208,244,214,0.8);
+
+}
+

@@ -1,0 +1,50 @@
+#pedidos_title{
+	font-size: 45px;
+}
+
+#contenido_title{
+	font-size: 25px;
+}
+
+#pedidobox{
+	border-bottom: solid 1px rgba(208,244,214,0.8);
+}
+
+#preciostorta{
+	padding: 20px 10px 20px 10px;
+	background-color: rgba(203,224,218,1);
+	border-radius: 10px;
+	font-size: 15px;
+	text-align: center;
+}
+
+#preciostorta p{
+	font-size: 17px;
+	font-weight: bold;
+
+}
+
+label, #contenido_title p {
+	font-size: 18px;
+	text-align: left;
+	font-weight: bold;
+}
+
+p span {
+	font-size: 14px;
+}
+
+#formulario{
+	background-color: rgba(208,244,214,0.8);
+	border-radius: 30px;
+	padding: 20px 10px 20px 20px;
+}
+
+#formulario, #preciostorta{
+	margin-top: 30px; 
+}
+
+#formulario input [12]{
+	background-color: white;
+	font-size: 20px;
+}

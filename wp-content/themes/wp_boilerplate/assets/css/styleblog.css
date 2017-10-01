@@ -1,0 +1,42 @@
+#blog-title{
+	font-size: 45px;
+	
+
+}
+
+.time-title{
+	margin: 20px 0 20px 0;
+	padding-bottom: 10px;
+	border-bottom: solid 3px rgba(203,224,218,0.8);
+	margin-top: 50px;
+
+}
+
+.separador{
+	font-size: 50px;
+	padding: 20px 45% 20px 45%;
+	border-bottom: solid 2px rgba(208,244,214,0.8);
+
+
+}
+
+.post-title{
+	font-size: 25px;
+}
+
+.colorboton{
+	background-color: rgba(208,244,214,0.8);
+	padding: 12px 35px 12px 35px;
+	font-size: 20px;
+}
+
+#blogbox{
+	border-bottom: solid 1px rgba(208,244,214,0.8);
+}
+
+@media (max-width: 500px) {
+	span img{
+				display: none;
+			}
+
+}

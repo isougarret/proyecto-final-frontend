@@ -1,0 +1,21 @@
+#usbox {
+	border-bottom: solid 1px rgba(208,244,214,0.8);
+
+}
+
+#title-us{
+	font-size: 45px;
+}
+
+#ustextbox{
+	padding: 40px 0 20px 0;
+	
+}
+
+#ustextbox p{
+	font-size: 14px;
+}
+
+#gallery{
+	padding-top: 20px;
+}

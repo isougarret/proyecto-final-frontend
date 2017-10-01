@@ -1,0 +1,56 @@
+.main-bcolor-1{
+	background-color: rgba(203,224,218,0.8);
+}
+
+.main-bcolor-2{
+	background-color: rgba(208,244,214,0.8);
+}
+
+.main-font{
+	font-family: 'Dosis', sans-serif;
+	font-family: 'Asap', sans-serif;
+}
+
+.white-bcolor{
+	background-color:rgba(255,255,255,0.9);
+}
+
+#slider{
+	padding-top: 30px;
+}
+
+
+/*HEADER*/
+
+.font-size-m{
+	font-size: 18px;
+}
+
+#img-logo{
+	border-radius: 50%;
+}
+
+#up-block{
+	padding: 24px 60px 54px 60px;
+	margin-bottom: 0;
+	background-color:rgba(255,255,255,0.9);
+}
+
+#central-block{
+	padding: 24px 60px 54px 60px;
+	margin-bottom: 0;
+	background-color:rgba(255,255,255,0.9);
+}
+
+#social-net{
+	background-color: black;
+}
+
+#navigation{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+nav{
+	position: fixed;
+}
